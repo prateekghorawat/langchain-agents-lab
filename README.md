@@ -18,7 +18,9 @@ The notebooks are intended for learning and experimentation while understanding 
 ## Repository Structure
 
 01_Langchain_Core.ipynb
+
 02_LangGraph.ipynb
+
 03_Langchain_Agent.ipynb
 
 ## Tech Stack
